@@ -2,3 +2,5 @@
 small machine learning notebooks from google collab
 
 first notebook is a test about credit fraud detection
+
+https://github.com/orgs/blablacar/repositories
